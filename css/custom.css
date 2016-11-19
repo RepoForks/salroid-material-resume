@@ -202,6 +202,12 @@ a {
   padding-bottom: 13px;
 }
 
+.circle {
+  border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 25px;
+    margin-top: 30px;
+}
 
 @media (max-width: 600px) {
   .cv_card .date_container {
